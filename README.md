@@ -1,6 +1,8 @@
 ### PyFirewall
 
-#### A simple firewall with cross platform support.
+#### A simple firewall with cross platform support. with Interactive TUI
+
+![UI Screenshot](assets/image.png)
 
 #### Features:
 - Block IPs
@@ -29,7 +31,7 @@ pip install -e .
 ```
 
 - For windows you need to run the script on elevated privileges (as admin) to use the pydivert library.
-- For Linux you need to run the script on elevated privileges (as root) to use the iptables command.
+- For Linux you need to run the script on elevated privileges (sudo) to use the iptables command.
 
 ```bash
 python3 main.py

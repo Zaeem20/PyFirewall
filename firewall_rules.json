@@ -1,0 +1,10 @@
+{
+    "blocked_ips": [],
+    "blocked_ports": [
+        80
+    ],
+    "blocked_domains": [
+        "webspheretechnologies.net",
+        "example.com"
+    ]
+}

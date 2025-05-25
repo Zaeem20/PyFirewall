@@ -1,0 +1,11 @@
+[project]
+name = "pyfirewall"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pydivert>=2.1.0",
+    "rich>=14.0.0",
+    "scapy>=2.6.1",
+]
